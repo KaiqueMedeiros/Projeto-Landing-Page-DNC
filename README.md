@@ -1,8 +1,8 @@
 # 🚀 Projeto-Landing-Page-DNC 🚀
 
-## ⚙️ Utilizei HTML para a estrutura da página, CSS para a estilização completa da mesma e JavaScript para a criação da função de carrocel nos cards! ⚙️
+## ⚙️ I used HTML for the page structure, CSS for the complete styling, and JavaScript for creating the carousel function on the cards! ⚙️
 
-### 📚 Um projeto criado no módulo de desenvolvimento web da imersão de tecnologia da DNC, aonde aprendi mais sobre uma estrutura simples e objetiva, aonde chama atenção do usuário e o instiga a prosseguir com interesse no produto oferecido da página! 📚
+### 📚 A project created in the web development module of the DNC technology immersion, where I learned more about a simple and objective structure that grabs the user's attention and encourages them to continue with interest in the product offered on the page! 📚
 
-### 🖥️ Link da Landing-Page: 🖥️ <br>
+### 🖥️ Landing Page Link: 🖥️ <br>
 https://lading-page-kaique-medeiros.netlify.app/
